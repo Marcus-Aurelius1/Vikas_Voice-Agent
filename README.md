@@ -288,5 +288,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Abhishek Anand</sub>
+  <sub>Built with ❤️ by Aritra Gupta</sub>
 </div>
