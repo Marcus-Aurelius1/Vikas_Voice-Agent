@@ -1,0 +1,51 @@
+# Environments & secrets
+.env
+.venv
+venv/
+env/
+ENV/
+
+# Python & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Database & SQLite Checkpoints
+chatbot.db
+chatbot.db-shm
+chatbot.db-wal
+*.db
+*.sqlite
+*.sqlite3
+
+# PDF RAG temporary files
+extracted_images/
+*.pdf
+
+# Model caches & downloads
+.cache/
+huggingface/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
